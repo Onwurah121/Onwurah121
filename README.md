@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Obinna Edmund
-- 👀 I’m interested in Web Development and all things related to programming
-- 🌱 I’m currently learning Full stack web development
+- 👀 I’m interested in Web Development and all things related to programming.
 - 💞️ I’m looking to collaborate on web development for now. 
 - 📫 you can reach me on my email:obinnaedmund121@gmail.com
 
